@@ -2,7 +2,7 @@
 name: Argue Template
 about: Argue in a kids friendly place named github.
 title: ''
-labels: ''
+labels: Argue
 assignees: RealBradCool
 
 ---
