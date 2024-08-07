@@ -1,4 +1,5 @@
 # retro-aim-server-icq-leak
+credits mk6i
 Ha Ha Ha Ha Ha
 MK6I can't catch me with a icq leak of retro aim server.
 
